@@ -99,7 +99,7 @@ input, select, textarea {
 
 	body {
 		background-color: #ffff99;
-		background-image: url("../../images/devils.jpg");
+		background-image: url("../../images/lump2.jpg");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3208,7 +3208,7 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			background-color: #ffff99;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/devils.jpg");
+			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/lump2.jpg");
 			background-size: cover,								cover,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -3732,7 +3732,7 @@ input, select, textarea {
 	#main {
 		background-color: #ffffff;
 		body class="" ;
-		background="images/devils.jpg";
+		background="images/lump2.jpg";
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
